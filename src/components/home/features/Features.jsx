@@ -12,7 +12,7 @@ export default function Features() {
             src="https://pngimg.com/uploads/doctor/doctor_PNG15988.png"
           />
           <Card.Body>
-            <Card.Title>Doctor</Card.Title>
+            <Card.Title>Doctor Change</Card.Title>
 
             <Button variant="primary">View</Button>
           </Card.Body>
